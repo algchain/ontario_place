@@ -6,7 +6,7 @@ Just a quick assembly of some data to support an Ontario Place for All.  To kick
 Pull requests welcomed.
 
 For more info check out:
-[Ontario Place for ALl](https://ontarioplaceforall.com)
+[Ontario Place for All](https://ontarioplaceforall.com)
 
 Share any feedback here (or at the link above):
 [Google Form)](https://forms.gle/5JGH6SX8keGm3ByF9)
