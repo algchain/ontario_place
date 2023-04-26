@@ -11,3 +11,6 @@ For more info check out:
 Share any feedback here (or at the link above):
 [Google Form)](https://forms.gle/5JGH6SX8keGm3ByF9)
 
+View this a sample of this data here:
+[8000 reasons why a Therme Spa will disappoint](https://ontarioplace.lobbykit.com/)
+
